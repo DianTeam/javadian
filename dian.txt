@@ -1,2 +1,4 @@
 git java dian
+day 1
 .
+¡£ 
